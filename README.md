@@ -12,6 +12,8 @@ In this challenge, I designed the tables to hold data in the CSVs, imported the 
 
 #### Data Modeling
 
+![QuickDBD-export.png](EmployeeSQL/QuickDBD-export.png)
+
 The CSVs were inspected and an ERD of the tables was sketched out. 
 
 #### Data Engineering
