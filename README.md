@@ -14,14 +14,15 @@ In this challenge, I designed the tables to hold data in the CSVs, imported the 
 
 Image shows how 6 databases merged.
 ![QuickDBD-export.png](EmployeeSQL/QuickDBD-export.png)
+<br> </br>
 
-
-![QuickDBD-export.png](EmployeeSQL/average_salary.png)
 Barchart of employee salary by title.
+![QuickDBD-export.png](EmployeeSQL/average_salary.png)
+<br> </br>
 
-
-![QuickDBD-export.png](EmployeeSQL/salary_frequency.png)
 Barchart by salary frequency.
+![QuickDBD-export.png](EmployeeSQL/salary_frequency.png)
+<br> </br>
 
 The CSVs were inspected and an ERD of the tables was sketched out. 
 
